@@ -6,7 +6,7 @@
 
 ##
 
-<p align="center"> Estudante do curso técnico de Análise e Desenvolvimento de Sistemas no SENAI Sorocaba cursando o 2° ano do ensino médio no SESI Itapetininga. 
+<p align="center"> Estudante do curso técnico de Análise e Desenvolvimento de Sistemas no SENAI Sorocaba cursando o 2° ano do ensino médio no SESI Itapetininga, também um grande fâ de A7X🤘🏻 
 
 ##
 
