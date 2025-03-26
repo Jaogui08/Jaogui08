@@ -26,7 +26,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Jao-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" ">
   <img align="center" alt="Jao-Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" ">
-  <img align="center" alt="Jao-Notion" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" ">
+  <img align="center" alt="Jao-Opera" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opera/opera-plain.svg" ">
   <img align="center" alt="Jao-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" ">
   <img align="center" alt="Jao-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" ">
   </div>
