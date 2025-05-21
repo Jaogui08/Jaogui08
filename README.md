@@ -10,7 +10,7 @@
 
 ##
 
-<img align="right" alt="" height="190px" src="https://media.tenor.com/LN2Z13-SxSQAAAAi/dbc-deathbats.gif">
+<img align="right" alt="" height="200px" src="https://media.tenor.com/LN2Z13-SxSQAAAAi/dbc-deathbats.gif">
 
 <h3 align="left">Social Medias</h3>
 <div>
@@ -37,7 +37,7 @@
 
     
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
+  <h3>◊ GitHub Stats ◊</h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jaogui08&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=7F00FF&text_color=FFF&border_radius=3&border_color=ffffff&icon_color=7F00FF&theme=dark" alt="GitHub stats">
 
@@ -50,6 +50,6 @@
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaogui08/Jaogui08/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jaogui08/Jaogui08/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaogui08/Jaogui08/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jaogui08/Jaogui08/output/github-contribution-grid-snake.svg">
 </picture>
