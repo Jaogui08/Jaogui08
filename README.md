@@ -6,7 +6,7 @@
 
 ##
 
-<p align="center"> Estudante do curso técnico de Análise e Desenvolvimento de Sistemas no SENAI Sorocaba cursando o 2° ano do ensino médio no SESI Itapetininga, também um grande fâ de A7X🤘🏻 
+<p align="center"> Estudante do curso técnico de Análise e Desenvolvimento de Sistemas no SENAI Sorocaba cursando o 2° ano do ensino médio no SESI Itapetininga, também um grande fã de A7X🤘🏻 
 
 ##
 
@@ -30,6 +30,8 @@
   <img align="center" alt="Jao-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" ">
   <img align="center" alt="Jao-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" ">
   <img align="center" alt="Jao-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" ">
+  <img align="center" alt="Jao-Opera" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opera/opera-plain.svg" />
+
   </div>
 
 ##
