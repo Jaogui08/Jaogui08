@@ -40,8 +40,8 @@
   <br>
   
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jaogui08&show_icons=true&theme=midnight-purple" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaogui08&layout=compact&theme=midnight-purple" style="height: 195px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Jaogui08&show_icons=true&theme=midnight-purple" style="height: 160px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaogui08&layout=compact&theme=midnight-purple" style="height: 160px;" />
   </div>
 
 </div>
