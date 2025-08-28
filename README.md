@@ -19,6 +19,7 @@
   <a href="https://www.tiktok.com/@jao_.gui" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/31vuk7ukyk5uslzcac42lzpclfmm?si=7849d701339a4b55" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/profiles/76561199384011553/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joão-guilherme-fragoso-de-sales-1b01ab381" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" target="_blank"></a>
 </div>
 
 
@@ -27,12 +28,12 @@
   <img align="center" alt="Jao-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" ">
   <img align="center" alt="Jao-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" ">
   <img align="center" alt="Jao-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" ">
+  <img align="center" alt="Jao-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" ">
+  <img align="center" alt="Jao-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" ">
   <img align="center" alt="Jao-Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" ">
   <img align="center" alt="Jao-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" ">
-  <img align="center" alt="Jao-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" ">
   <img align="center" alt="Jao-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" ">
-  <img align="center" alt="Jao-Opera" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opera/opera-plain.svg" />
-
+  
   </div>
 
 ##
