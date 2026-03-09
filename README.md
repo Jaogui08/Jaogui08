@@ -1,12 +1,18 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rubik+code&weight=500&size=22&pause=1000&color=7F00FF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hello+and+welcome+to+my+profile!+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik+code&weight=500&size=28&pause=100&color=7F00FF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>  
 
 ##
 
-<p align="center"> Estudante do curso técnico de Análise e Desenvolvimento de Sistemas no SENAI Sorocaba cursando o 3° ano do ensino médio no SESI Itapetininga. 
+<div align="center">
+  <p>Sou um desenvolvedor apaixonado por tecnologia e desenvolvimento de software. Possuo experiência prática com Java, Spring Boot, HTML, CSS e JavaScript, além de conhecimentos em modelagem de bancos de dados relacionais, metodologias ágeis e desenvolvimento mobile com React Native.
+
+Durante minha formação, participo do desenvolvimento de projetos práticos que simulam ambientes reais de trabalho, aplicando metodologias ágeis como Scrum para organização de tarefas, colaboração em equipe e entrega contínua de funcionalidades. Também aplico com frequência algoritmos e lógica de programação, tanto no Back-End quanto no Front-End.
+
+Atualmente, busco oportunidades e desafios como Desenvolvedor Full Stack, com o objetivo de fortalecer meus conhecimentos na área de desenvolvimento de software, adquirindo cada vez mais experiência prática e contribuindo para a criação de soluções que gerem valor para usuários e empresas, além de ampliar minhas oportunidades profissionais.</p>
+</div>
 
 ##
 
@@ -32,6 +38,8 @@
   <img align="center" alt="Jao-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" ">
   <img align="center" alt="Jao-Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" ">
   <img align="center" alt="Jao-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" ">
+  <img align="center" alt="Jao-SpringTools" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img align="center" alt="Jao-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Jao-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" ">
   
   </div>
